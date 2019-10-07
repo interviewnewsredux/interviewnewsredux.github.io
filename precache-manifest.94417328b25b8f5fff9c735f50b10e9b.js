@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "264f34de37a71ad207184314733cd4ed",
+    "revision": "7ae92e524a340fbbd10e67c2e9c015a2",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.bceae682.chunk.css"
   },
   {
-    "revision": "7a5ac7b1811f155930b8",
+    "revision": "6641e34b1a0d384fcb5d",
     "url": "/static/css/main.5bf87a16.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d6457da5.chunk.js"
   },
   {
-    "revision": "7a5ac7b1811f155930b8",
-    "url": "/static/js/main.0c82a2f8.chunk.js"
+    "revision": "6641e34b1a0d384fcb5d",
+    "url": "/static/js/main.b49ccb1f.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
     "url": "/static/js/runtime-main.1638fc71.js"
-  },
-  {
-    "revision": "9fff041920db834af520d262bddc050b",
-    "url": "/static/media/NYT.9fff0419.png"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -86,9 +82,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
-  },
-  {
-    "revision": "25539c4f65b750cdbce7f5c10ddc1b45",
-    "url": "/static/media/washington.25539c4f.webp"
   }
 ]);
