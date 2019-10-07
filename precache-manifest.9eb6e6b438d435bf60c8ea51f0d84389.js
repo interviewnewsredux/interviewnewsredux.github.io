@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ec42af27920e16a75ccfe016032f5c3",
+    "revision": "264f34de37a71ad207184314733cd4ed",
     "url": "/index.html"
   },
   {
-    "revision": "4c35fd97195df8878567",
+    "revision": "82e446218cfb51813d60",
     "url": "/static/css/2.bceae682.chunk.css"
   },
   {
-    "revision": "a8b31d01e0a92bbff5c9",
+    "revision": "7a5ac7b1811f155930b8",
     "url": "/static/css/main.5bf87a16.chunk.css"
   },
   {
-    "revision": "4c35fd97195df8878567",
-    "url": "/static/js/2.b39e9480.chunk.js"
+    "revision": "82e446218cfb51813d60",
+    "url": "/static/js/2.d6457da5.chunk.js"
   },
   {
-    "revision": "a8b31d01e0a92bbff5c9",
-    "url": "/static/js/main.6a166696.chunk.js"
+    "revision": "7a5ac7b1811f155930b8",
+    "url": "/static/js/main.0c82a2f8.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
     "url": "/static/js/runtime-main.1638fc71.js"
+  },
+  {
+    "revision": "9fff041920db834af520d262bddc050b",
+    "url": "/static/media/NYT.9fff0419.png"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -82,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "25539c4f65b750cdbce7f5c10ddc1b45",
+    "url": "/static/media/washington.25539c4f.webp"
   }
 ]);
